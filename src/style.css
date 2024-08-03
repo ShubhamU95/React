@@ -1,0 +1,16 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.App.light {
+  background-color: white;
+  color: black;
+}
+
+.App.dark {
+  background-color: black;
+  color: white;
+}
+
